@@ -14,6 +14,8 @@ Giotto is applicable to a wide range of spatial technologies and platforms.
     :alt: Image showing the overview of Spatial Giotto
     :align: center
 
+**Note:** This is the stable but older version of Giotto. For the latest version, please refer to [Giotto Suite](https://giottosuite.readthedocs.io/en/latest/#). *Warining:* Reinstallation is required in order to use Giotto Suite. Some old functions may not work.  
+
 *************
 Description 
 *************
@@ -35,10 +37,7 @@ Description
   * Calculate spatially increased ligand-receptor expression in cells of interacting cell type pairs
   * Find interaction changed genes (ICG): genes that change expression in one cell type due to interaction with a neighboring cell type
 
-* Giotto provides a number of options to visualize both 2D and 3D data and the outcome of Giotto can be interactively explored using :bdg-link-success:`Giotto Viewer <http://spatial.rc.fas.harvard.edu/giotto-viewer/>` which allows you to overlay the obtained results with raw or additional images of the profiled tissue section(s).
-
-.. _Giotto Viewer: http://spatial.rc.fas.harvard.edu/spatialgiotto/giotto.install.native.html
-
+* Giotto provides a number of options to visualize both 2D and 3D data and the outcome of Giotto can be interactively explored using [Giotto Viewer](https://qzhudfci.bitbucket.io/spatialgiotto/giotto.viewer.html) which allows you to overlay the obtained results with raw or additional images of the profiled tissue section(s).
 
 **********************
 Cite Giotto
@@ -78,18 +77,6 @@ Authors and Developers
 
 .. _Ruben Dries: https://www.drieslab.com
 
-***********
-References
-***********
-#. `Han X, Wang R, Zhou Y, Fei L, Sun H, Lai S, et al. Mapping the mouse cell atlas by microwell-Seq. Cell. 2018;173:1307. doi: 10.1016/j.cell.2018.05.012. <https://pubmed.ncbi.nlm.nih.gov/29775597/>`_
-#. `Tabula Muris Consortium, overall coordination, logistical coordination, organ collection and processing, library preparation and sequencing, Computational data analysis, et al. Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris. Nature. 2018;562:367–72.`_
-#. `Lubeck E, Coskun AF, Zhiyentayev T, Ahmad M, Cai L. Single-cell in situ RNA profiling by sequential hybridization. Nat. Methods. 2014. p. 360–361.`_
-#. `Chen KH, Boettiger AN, Moffitt JR, Wang S, Zhuang X. RNA imaging. Spatially resolved, highly multiplexed RNA profiling in single cells. Science. 2015;348:aaa6090. doi: 10.1126/science.aaa6090. <https://pubmed.ncbi.nlm.nih.gov/25858977/>`_
-#. `Ståhl PL, Salmén F, Vickovic S, Lundmark A, Navarro JF, Magnusson J, et al. Visualization and analysis of gene expression in tissue sections by spatial transcriptomics. Science. 2016;353:78–82. doi: 10.1126/science.aaf2403.  <https://pubmed.ncbi.nlm.nih.gov/27365449/>`_
-
-
-.. _Tabula Muris Consortium, overall coordination, logistical coordination, organ collection and processing, library preparation and sequencing, Computational data analysis, et al. Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris. Nature. 2018;562:367–72.: https://www.nature.com/articles/s41586-019-1049-y
-.. _Lubeck E, Coskun AF, Zhiyentayev T, Ahmad M, Cai L. Single-cell in situ RNA profiling by sequential hybridization. Nat. Methods. 2014. p. 360–361.: https://www.nature.com/articles/nbt.4260
 
 
 :bdg-link-primary:`Giotto GitHub <https://github.com/RubD/Giotto/>` :bdg-link-danger:`Report Issue <SubmittingGitHubIssues>`
